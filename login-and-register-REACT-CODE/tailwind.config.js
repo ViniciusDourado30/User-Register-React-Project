@@ -51,11 +51,11 @@ export default {
   				'2': 'hsl(var(--chart-2))',
   				'3': 'hsl(var(--chart-3))',
   				'4': 'hsl(var(--chart-4))',
-  				'5': 'hsl(var(--chart-5))'
+  				'5': 'hsl(var(--chart-5))',
   			}
   		},
   		backgroundImage: {
-  			soundBackground: 'url('./images/soundBackground.svg')'
+  			soundBackground: 'url("./images/soundBackground.svg")'
   		},
   		fontFamily: {
   			poppins: ['Poppins', 'sans-serif']
